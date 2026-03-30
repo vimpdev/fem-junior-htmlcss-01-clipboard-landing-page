@@ -32,6 +32,7 @@
     --clr-white: #FFFFFF;
     --clr-black: #000000;
     --clr-gray-700: #4C545C;
+    --clr-gray-50: #F5F7F7;
     --clr-green-500: #1B8374;
     --clr-green-300: #5DCCBB;
     --clr-blue-500: #4D61FF;
@@ -512,14 +513,14 @@
     }
 
     .snippets__content {
-      margin-left: -18%;
+      margin-left: -17.5%;
       grid-template-columns: 1fr 1fr;
       align-items: center;
       gap: 6.625em;
     }
 
     .snippets__image {
-      max-inline-size: 752px;
+      max-inline-size: 47rem;
       justify-self: start;
     }
 
