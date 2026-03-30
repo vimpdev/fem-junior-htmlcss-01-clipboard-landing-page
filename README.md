@@ -14,7 +14,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 ## 🔗 Links
 
 - 🌎 [Live site](https://vimpdev.github.io/fem-junior-htmlcss-01-clipboard-landing-page/)
-<!-- - 📌 [Frontend Mentor Solution]() -->
+- 📌 [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/clipboard-landing-page-mobile-first-bem-and-css-layer-jZekum3B9Q)
 
 ---
 
